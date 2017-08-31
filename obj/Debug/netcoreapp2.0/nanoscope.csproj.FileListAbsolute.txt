@@ -1,0 +1,10 @@
+/home/seb/Bureau/nanoscope/bin/Debug/netcoreapp2.0/nanoscope.deps.json
+/home/seb/Bureau/nanoscope/bin/Debug/netcoreapp2.0/nanoscope.runtimeconfig.json
+/home/seb/Bureau/nanoscope/bin/Debug/netcoreapp2.0/nanoscope.runtimeconfig.dev.json
+/home/seb/Bureau/nanoscope/bin/Debug/netcoreapp2.0/nanoscope.dll
+/home/seb/Bureau/nanoscope/bin/Debug/netcoreapp2.0/nanoscope.pdb
+/home/seb/Bureau/nanoscope/obj/Debug/netcoreapp2.0/nanoscope.csproj.CoreCompileInputs.cache
+/home/seb/Bureau/nanoscope/obj/Debug/netcoreapp2.0/nanoscope.AssemblyInfoInputs.cache
+/home/seb/Bureau/nanoscope/obj/Debug/netcoreapp2.0/nanoscope.AssemblyInfo.cs
+/home/seb/Bureau/nanoscope/obj/Debug/netcoreapp2.0/nanoscope.dll
+/home/seb/Bureau/nanoscope/obj/Debug/netcoreapp2.0/nanoscope.pdb
