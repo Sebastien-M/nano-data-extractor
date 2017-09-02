@@ -12,7 +12,7 @@ namespace nanoscope
 
         public static void test(){
             ReadFile readfile = new ReadFile();
-            ReadFile.headTest("../wt-lame2-zone1.100");
+            ReadFile.headLect("wt-lame2-zone1.100");
         }
 
         // static string Affichage()
