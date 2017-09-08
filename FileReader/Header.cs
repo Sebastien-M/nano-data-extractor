@@ -68,9 +68,7 @@ namespace nanoscope.FileReader
                         header_pos = "Force image";
                     }
                     else if (header_pos == "File Description")
-                    {
-                        
-                    }
+                    {}
 
                     counter++;
                 }
